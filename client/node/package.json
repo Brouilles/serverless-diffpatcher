@@ -9,7 +9,7 @@
   "author": "aiXcoder",
   "license": "ISC",
   "dependencies": {
-    "bsdiff-nodejs": "^2.1.0",
+    "bsdiff-node": "^2.2.4",
     "decompress": "^4.2.0",
     "download": "^7.1.0",
     "fs-extra": "^8.1.0",
